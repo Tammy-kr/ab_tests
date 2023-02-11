@@ -1,4 +1,4 @@
-###Task AA-test
+#Task AA-test
 
 10,000 tests need to be done, at each iteration form subsamples of 500 users from groups 2 and 3 and run t-tests.
 Made a distribution histogram, calculate what percentage of p-values turned out to be less than or equal to 0.05.
@@ -12,7 +12,7 @@ Made a conclusion.
 
 
 
-###Task AB-test
+#Task AB-test
 
 Analyze the results of the experiment, groups 1 and 2 are involved.
 Group 2 used one of the new algorithm, group 1 was used as a control.
@@ -26,7 +26,7 @@ Made a conclusion and give a recommendation.
 
 
 
-###Task AB-test2
+#Task AB-test2
 
 Analyze the test between _groups 0 and 3_ according to the metric of linearized likes. 
 Is the difference visible? Has _p-value_ gotten smaller?
